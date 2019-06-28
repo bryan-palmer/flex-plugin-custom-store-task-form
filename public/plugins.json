@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CustomStoreTaskFormPlugin",
+    "version": "0.0.0",
+    "class": "CustomStoreTaskFormPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-custom-store-task-form.js"
+  }
+]
